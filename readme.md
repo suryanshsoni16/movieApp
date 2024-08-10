@@ -4,5 +4,5 @@ User can see detail of any movie by searching keyword in searchbox then details 
 [click here to see]()
 =======
 User can see detail of any movie by searching keyword in searchbox
-[click here to see](https://tigerbhai16.github.io/movieApp/index.html)
+[click here to see](https://suryanshsoni16.github.io/movieApp/index.html)
 >>>>>>> 51da3d803026c71e28a62072a5ddbcaa9034593e
